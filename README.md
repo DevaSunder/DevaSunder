@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/DevaSunder/DevaSunder/blob/main/White%20and%20black%20modern%20twitter%20header%20.gif)]
+![MasterHead](https://github.com/DevaSunder/DevaSunder/blob/main/White%20and%20black%20modern%20twitter%20header%20.gif)
 <h1 align="center">Hi 👋, I'm Deva Sunder</h1>
 <h3 align="center">AI Explorer | ML Trailblazer | Making Data Dance 💃</h3>
 

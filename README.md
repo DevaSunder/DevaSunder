@@ -12,15 +12,15 @@
 
 - 📄 Know about my experiences [https://github.com/DevaSunder/DevaSunder/blob/main/Resume.pdf](https://github.com/DevaSunder/DevaSunder/blob/main/Resume.pdf)
 
-<h3 align="left">I am a curious and adventurous soul on a thrilling journey through the realms of cutting-edge technology. My passion for innovation and exploration knows no bounds, as I fearlessly dive into exciting tech endeavors.
+I am a curious and adventurous soul on a thrilling journey through the realms of cutting-edge technology. My passion for innovation and exploration knows no bounds, as I fearlessly dive into exciting tech endeavors.
 
-From experimenting with custom ROMs on various phones to crafting captivating gaming experiences using Unity and Unreal Engine, my tech ventures have been a source of endless excitement. Game development allows me to unleash my creativity and build immersive worlds that transport players to extraordinary realms.
+From experimenting with **custom ROMs** on various phones to crafting captivating gaming experiences using **Unity** and **Unreal Engine**, my tech ventures have been a source of endless excitement. Game development allows me to unleash my creativity and build immersive worlds that transport players to extraordinary realms.
 
-As an audiophile, I immerse myself in the enchanting world of audio, continuously seeking the perfect headphones to satisfy my discerning ear. The pursuit of the ultimate audio quality fuels my quest to discover the finest soundscapes.
+As an **audiophile**, I immerse myself in the enchanting world of audio, continuously seeking the perfect headphones to satisfy my discerning ear. The pursuit of the ultimate audio quality fuels my quest to discover the finest soundscapes.
 
 Through my relentless pursuit of knowledge, I have honed my skills in troubleshooting and hands-on tech exploration. Whether it's tinkering with laptops or diving deep into computer internals, I embrace challenges to expand my technical prowess.
 
-If you share the same passion for technology, gaming, and the wonders of audio, let's connect and embark on an exhilarating journey together. Let's push boundaries, innovate, and create memorable experiences that captivate and inspire. 🚀🎮🔧🎧</h3>
+If you share the same passion for **technology**, **gaming**, and the **wonders of audio**, let's connect and embark on an exhilarating journey together. Let's push boundaries, innovate, and create memorable experiences that captivate and inspire. 🚀🎮🔧🎧
 <p align="left">
 </p>
 

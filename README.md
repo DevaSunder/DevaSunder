@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/DevaSunder/DevaSunder/blob/main/White%20and%20black%20modern%20twitter%20header%20.gif)
 <h1 align="center">Hi 👋, I'm Deva Sunder</h1>
 <h3 align="center">AI Explorer | ML Trailblazer | Making Data Dance 💃</h3>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 - 🔭 I’m currently working on **Neural Architectural Search**
 
 - 🌱 I’m currently exploring **the Magic of PyTorch and TensorFlow 🚀**

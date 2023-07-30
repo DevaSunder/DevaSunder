@@ -3,7 +3,7 @@
 <h3 align="center">AI Explorer | ML Trailblazer | Making Data Dance 💃</h3>
 <img align="right" alt="Coding" width="400" src="https://abderrahim-alakouche.netlify.app/static/media/developer.cd59d626.gif"></img>
 
-- 🔭 I’m currently working on **Neural Architectural Search**
+- 🔭 I’m currently working on **Neural Architectural Search (NAS)**
 
 - 🌱 I’m currently exploring **the Magic of PyTorch and TensorFlow 🚀**
 
